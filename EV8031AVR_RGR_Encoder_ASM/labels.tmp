@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>52</LINE></Init>
+  <TIM0_COMP><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>164</LINE></TIM0_COMP>
+  <long_delay_10ms><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>229</LINE></long_delay_10ms>
+  <Infinite_loop><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>116</LINE></Infinite_loop>
+  <long_delay_1><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>214</LINE></long_delay_1>
+  <Next_iterate><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>170</LINE></Next_iterate>
+  <Decr_state><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>192</LINE></Decr_state>
+  <Incr_state><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>179</LINE></Incr_state>
+  <Led_action><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>204</LINE></Led_action>
+  <to_z><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>187</LINE></to_z>
+  <to_a><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>200</LINE></to_a>
+  <long_loop_1><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>220</LINE></long_loop_1>
+  <short_delay><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>249</LINE></short_delay>
+  <long_loop_10><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>235</LINE></long_loop_10>
+  <long_delay><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>244</LINE></long_delay>
+  <short_loop><FILE>C:\Users\stari\Music\PPP\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM\EV8031AVR_RGR_Encoder_ASM.asm</FILE><LINE>254</LINE></short_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
